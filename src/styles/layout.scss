@@ -1,0 +1,12 @@
+.flow-container {
+  display: flex;
+  height: 100vh;
+  background: var(--c-bg-app);
+}
+
+.content {
+  background: var(--c-light-gray);
+  flex: 1 1 auto;
+  border-radius: 15px 0 0 15px;
+  padding: 0 20px;
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "7773890",
+    "amount": 5000,
+    "category": "Технника",
+    "account": "Наличные",
+    "type": "expense",
+    "comment": "Монитор"
+  },
+  {
+    "id": "9985368",
+    "amount": 1500,
+    "category": "Проодукты",
+    "account": "Наличные",
+    "type": "expense",
+    "comment": "Монитор"
+  },
+  {
+    "id": "5556478",
+    "amount": 80000,
+    "category": "Зарплата",
+    "account": "Наличные",
+    "type": "income",
+    "comment": ""
+  }
+]
